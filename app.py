@@ -23,6 +23,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background'], 'fontFamil
     # Header Section
     html.Div(style={'backgroundColor': colors['header_bg'], 'padding': '20px', 'borderRadius': '10px', 'marginBottom': '30px', 'boxShadow': '0 4px 8px 0 rgba(0,0,0,0.2)'}, children=[
         html.H1(
+            id='header',
             children='Soul Foods: Pink Morsel Sales Visualiser',
             style={'textAlign': 'center', 'color': 'white', 'margin': 0}
         )
