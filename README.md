@@ -24,6 +24,7 @@ Beyond building the application, the simulation focused heavily on Software Engi
 ├── data/
 │   └── formatted_sales_data.csv  # Cleaned and formatted sales data
 ├── app.py                        # Main Dash application and layout
+├── data_processor.py             # Python script to process raw CSV into formatted pink morsel sales data
 ├── test_app.py                   # Pytest suite for automated UI testing
 ├── run_tests.sh                  # Bash script for CI pipeline execution
 ├── requirements.txt              # Project dependencies 
