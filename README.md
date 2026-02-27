@@ -76,4 +76,4 @@ The script will activate the virtual environment, run the test suite, and output
 * **`Exit Code 1`**: One or more tests failed (in a real world scenario, this would halt the CI/CD pipeline and block the code from being deployed).
 
 ---
-*Certificate of completion for the Quantium Data Analytics Virtual Experience Program is available upon request.*
+*Certificate of completion for the Quantium Software Engineering Virtual Job Simulation is available upon request.*
